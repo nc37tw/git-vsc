@@ -1,0 +1,1 @@
+print("Hi, this is VSC with Git Introduction")
